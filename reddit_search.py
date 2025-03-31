@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 reddit = praw.Reddit(
-    client_id="k3BMB_tVoWvE-5XjCU3fLQ",
-    client_secret="w1jVhWmePCGQnMPXAnN-NqWF3M0j4g",
+    client_id="",
+    client_secret="",
     user_agent="script:search_app:v1.0"
 )
 
