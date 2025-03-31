@@ -5,10 +5,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 client = tweepy.Client(
-    consumer_key="VpUTM3Zuut6DhWADFCWd6XghF",
-    consumer_secret="pfmHYZFRoHUSqz4aIZLWJ1W7Nfxd9BoWA7lw4yZK5Q0blzePqw",
-    access_token="1590762264516530177-lfhTPh7RRmj49UyMHBhl7nTMxhmrAw",
-    access_token_secret="zAQultLJL0sqLXFvupzgBVv1dBbDdHucBon3s9cjEv7mn"
+    consumer_key="",
+    consumer_secret="",
+    access_token="",
+    access_token_secret=""
 )
 
 query = "python programming"
